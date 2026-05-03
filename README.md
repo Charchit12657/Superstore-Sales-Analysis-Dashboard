@@ -8,11 +8,13 @@ Using Python and SQL, the data was cleaned and explored to identify profit drive
 
 
 
+
 ## Objective
 Identify factors affecting profit and sales performance
 Detect loss-making categories and regions
 Analyze the relationship between discount and profit
 Generate actionable insights for business improvement
+
 
 
 
@@ -29,6 +31,7 @@ Quantity
 
 
 
+
 ## Approach
 a) Data Cleaning (Python - Pandas)
 Handled missing values and inconsistencies
@@ -39,6 +42,7 @@ b) Data Analysis (SQL + Python)
 Performed aggregations using GROUP BY and conditional logic
 Analyzed trends across regions, categories, and time
 Evaluated impact of discounts on 
+
 
 
 
@@ -56,6 +60,7 @@ e) Certain sub categories showed high sales but low or negative profit, indicati
 
 
 
+
 ## Key Metrics Analyzed
 Total Sales
 Total Profit
@@ -63,10 +68,12 @@ Profit Margin
 Discount Impact
 
 
+
 ## Tools & Technologies Used
 Python (Pandas, NumPy)
 SQL
 Power BI
+
 
 ## Business Recommendations
 a) Reduce excessive discounting in loss making categories such as Furniture.
