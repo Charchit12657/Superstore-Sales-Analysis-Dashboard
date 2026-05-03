@@ -38,14 +38,14 @@ The dataset includes:
 
 ## Approach
 
-* Data Cleaning (Python - Pandas)
+a) Data Cleaning (Python - Pandas)
 - Loaded the dataset and explored its structure.
   
 - Handled missing values and checked for inconsistencies.
    
 - Cleaned and prepared the data for further analysis. 
 
-* Data Analysis (Python + SQL)
+b) Data Analysis (Python + SQL)
 - Performed aggregations to understand sales and profit trends
   
 - Compared performance across regions, categories, and sub-categories
@@ -54,7 +54,7 @@ The dataset includes:
     
 - Identified patterns in loss-making segments  
 
-* Data Visualization (Power BI)
+c) Data Visualization (Power BI)
 - Created a dashboard to summarize key metrics like sales, profit, and orders
     
 - Used visuals to compare performance across regions and categories
