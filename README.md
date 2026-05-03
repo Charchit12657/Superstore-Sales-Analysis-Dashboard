@@ -103,4 +103,4 @@ c) Data Visualization (Power BI)
   
 * How different factors like discount can affect profitability.
   
-* How to use Python and SQL together for analysis.
+
