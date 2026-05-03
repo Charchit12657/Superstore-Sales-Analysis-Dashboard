@@ -30,12 +30,12 @@ Quantity
 
 
 ## Approach
-1 Data Cleaning (Python - Pandas)
+a) Data Cleaning (Python - Pandas)
 Handled missing values and inconsistencies
 Standardized column formats
 Prepared data for analysis
 
-2 Data Analysis (SQL + Python)
+b) Data Analysis (SQL + Python)
 Performed aggregations using GROUP BY and conditional logic
 Analyzed trends across regions, categories, and time
 Evaluated impact of discounts on 
@@ -70,5 +70,7 @@ Power BI
 
 ## Business Recommendations
 a) Reduce excessive discounting in loss making categories such as Furniture.
-b) Re-evaluate pricing strategies for low-profit regions like Central.  
+
+b) Re-evaluate pricing strategies for low-profit regions like Central.
+
 c) Focus on expanding high profit segments such as Technology.  
